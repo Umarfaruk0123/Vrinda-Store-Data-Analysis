@@ -4,6 +4,11 @@ A complete sales data analysis project for **Vrinda Store (2022)** built using *
 
 ---
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+---
 ## 📁 Project Structure
 
 ```
@@ -89,5 +94,8 @@ The project includes **6 analysis sheets** with Pivot Tables and Charts:
 ---
 
 ⭐ If you found this project helpful, give it a star!
+
+
+
 
 
