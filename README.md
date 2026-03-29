@@ -9,6 +9,7 @@ A complete sales data analysis project for **Vrinda Store (2022)** built using *
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-F2C811?style=for-the-badge) 
 ---
+
 ## 📁 Project Structure
 
 ```
